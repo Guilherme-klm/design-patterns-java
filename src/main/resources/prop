@@ -1,0 +1,2 @@
+java/patterns/dynamicfactory/GeradorArquivo = java/patterns/dynamicfactory/GeradorArquivoXML.java
+java/patterns/dynamicfactory/PosProcessador = java/patterns/dynamicfactory/Compactador.java

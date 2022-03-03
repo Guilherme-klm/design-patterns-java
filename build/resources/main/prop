@@ -1,0 +1,2 @@
+java/aleatory/dynamicfactory/GeradorArquivo = java/aleatory/dynamicfactory/GeradorArquivoXML.java
+java/aleatory/dynamicfactory/PosProcessador = java/aleatory/dynamicfactory/Compactador.java

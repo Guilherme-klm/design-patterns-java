@@ -1,0 +1,209 @@
+aleatory/composite/example2/TrechoSimples.java
+ aleatory.composite.example2.TrechoSimples
+aleatory/observer/example1/Observador.java
+ aleatory.observer.example1.Observador
+Cargo.java
+ Cargo
+aleatory/staticfactorymethod/GeradorPropriedades.java
+ aleatory.staticfactorymethod.GeradorPropriedades
+Funcionario.java
+ Funcionario
+aleatory/adapter/EnviaSMSDiferenciado.java
+ aleatory.adapter.EnviaSMSDiferenciado
+aleatory/observer/example2/EventManager.java
+ aleatory.observer.example2.EventManager
+aleatory/observer/example3/EventManagerPessoa.java
+ aleatory.observer.example3.EventManagerPessoa
+aleatory/adapter/Demo.java
+ aleatory.adapter.Demo
+aleatory/dynamicfactory/GeradorArquivo.java
+ aleatory.dynamicfactory.GeradorArquivo
+aleatory/observer/example2/Editor.java
+ aleatory.observer.example2.Editor
+aleatory/observer/example3/Pessoa.java
+ aleatory.observer.example3.Pessoa
+aleatory/observer/example3/CriadoPessoaLogger.java
+ aleatory.observer.example3.CriadoPessoaLogger
+aleatory/composite/example2/TrechoAereo.java
+ aleatory.composite.example2.TrechoAereo
+aleatory/observer/example2/Demo.java
+ aleatory.observer.example2.Demo
+aleatory/nullobject/PessoaNull.java
+ aleatory.nullobject.PessoaNull
+aleatory/bridge/PosProcessador.java
+ aleatory.bridge.PosProcessador
+aleatory/factory/TesteFactory.java
+ aleatory.factory.TesteFactory
+aleatory/state/Cor.java
+ aleatory.state.Cor
+ aleatory.state.Cor$1
+ aleatory.state.Cor$2
+ aleatory.state.Cor$3
+aleatory/staticfactorymethod/GeradorFactory.java
+ aleatory.staticfactorymethod.GeradorFactory
+aleatory/factory/Mulher.java
+ aleatory.factory.Mulher
+aleatory/adapter/SMS.java
+ aleatory.adapter.SMS
+aleatory/proxy/RealImage.java
+ aleatory.proxy.RealImage
+aleatory/bridge/Criptografador.java
+ aleatory.bridge.Criptografador
+aleatory/nullobject/Pessoa.java
+ aleatory.nullobject.Pessoa
+aleatory/proxy/Image.java
+ aleatory.proxy.Image
+aleatory/chainofresponsibility/example1/Arquivo.java
+ aleatory.chainofresponsibility.example1.Arquivo
+aleatory/observer/example1/Executavel.java
+ aleatory.observer.example1.Executavel
+aleatory/state/No.java
+ aleatory.state.No
+aleatory/observer/example2/EmailNotificationListener.java
+ aleatory.observer.example2.EmailNotificationListener
+aleatory/observer/example2/LogOpenListener.java
+ aleatory.observer.example2.LogOpenListener
+aleatory/chainofresponsibility/example2/Criptografador.java
+ aleatory.chainofresponsibility.example2.Criptografador
+aleatory/servicelocator/Humano.java
+ aleatory.servicelocator.Humano
+aleatory/composite/example1/Compactador.java
+ aleatory.composite.example1.Compactador
+aleatory/composite/example1/GeradorArquivo.java
+ aleatory.composite.example1.GeradorArquivo
+aleatory/bridge/GeradorPropriedadesCriptografado.java
+ aleatory.bridge.GeradorPropriedadesCriptografado
+CalculadoraDeSalario.java
+ CalculadoraDeSalario
+aleatory/observer/example2/EventListener.java
+ aleatory.observer.example2.EventListener
+aleatory/adapter/SMSAdapter.java
+ aleatory.adapter.SMSAdapter
+aleatory/templatemethod/MainExecutavel.java
+ aleatory.templatemethod.MainExecutavel
+aleatory/state/MainExecutavel.java
+ aleatory.state.MainExecutavel
+aleatory/nullobject/ProcessaPessoa.java
+ aleatory.nullobject.ProcessaPessoa
+aleatory/templatemethod/GeradorPropriedadesCriptografado.java
+ aleatory.templatemethod.GeradorPropriedadesCriptografado
+aleatory/factory/PessoaFactory.java
+ aleatory.factory.PessoaFactory
+aleatory/servicelocator/Homem.java
+ aleatory.servicelocator.Homem
+aleatory/adapter/EnviaSMS.java
+ aleatory.adapter.EnviaSMS
+aleatory/chainofresponsibility/example2/PosProcessadorNulo.java
+ aleatory.chainofresponsibility.example2.PosProcessadorNulo
+aleatory/dynamicfactory/PosProcessador.java
+ aleatory.dynamicfactory.PosProcessador
+aleatory/dynamicfactory/Demo.java
+ aleatory.dynamicfactory.Demo
+aleatory/observer/example3/PessoaExistenteLogger.java
+ aleatory.observer.example3.PessoaExistenteLogger
+aleatory/staticfactorymethod/PosProcessadorComposto.java
+ aleatory.staticfactorymethod.PosProcessadorComposto
+QuinzeOuVinteCincoPorCento.java
+ QuinzeOuVinteCincoPorCento
+aleatory/composite/example1/PosProcessador.java
+ aleatory.composite.example1.PosProcessador
+aleatory/proxy/ProxyImage.java
+ aleatory.proxy.ProxyImage
+aleatory/bridge/GeradorArquivo.java
+ aleatory.bridge.GeradorArquivo
+aleatory/composite/example2/TrechoComposto.java
+ aleatory.composite.example2.TrechoComposto
+aleatory/observer/example3/Observador.java
+ aleatory.observer.example3.Observador
+aleatory/observer/example3/PessoaService.java
+ aleatory.observer.example3.PessoaService
+aleatory/proxy/Demo.java
+ aleatory.proxy.Demo
+aleatory/composite/example1/PosProcessadorComposto.java
+ aleatory.composite.example1.PosProcessadorComposto
+Main.java
+ Main
+aleatory/dynamicfactory/GeradorArquivoXML.java
+ aleatory.dynamicfactory.GeradorArquivoXML
+aleatory/factory/Pessoa.java
+ aleatory.factory.Pessoa
+aleatory/composite/example2/Demo.java
+ aleatory.composite.example2.Demo
+aleatory/composite/example1/Criptografador.java
+ aleatory.composite.example1.Criptografador
+aleatory/factory/Homem.java
+ aleatory.factory.Homem
+aleatory/composite/example1/GeradorXMLCompactado.java
+ aleatory.composite.example1.GeradorXMLCompactado
+aleatory/bridge/GeradorXMLCompactado.java
+ aleatory.bridge.GeradorXMLCompactado
+aleatory/chainofresponsibility/example2/Demo.java
+ aleatory.chainofresponsibility.example2.Demo
+aleatory/dynamicfactory/Compactador.java
+ aleatory.dynamicfactory.Compactador
+aleatory/chainofresponsibility/example2/Compactador.java
+ aleatory.chainofresponsibility.example2.Compactador
+DezOuVintePorCento.java
+ DezOuVintePorCento
+RegraDeCalculo.java
+ RegraDeCalculo
+aleatory/bridge/Compactador.java
+ aleatory.bridge.Compactador
+aleatory/observer/example1/GraficoBarras.java
+ aleatory.observer.example1.GraficoBarras
+aleatory/composite/example1/MainExecutavel.java
+ aleatory.composite.example1.MainExecutavel
+aleatory/observer/example3/Demo.java
+ aleatory.observer.example3.Demo
+aleatory/dynamicfactory/FabricaDinamica.java
+ aleatory.dynamicfactory.FabricaDinamica
+aleatory/staticfactorymethod/Criptografador.java
+ aleatory.staticfactorymethod.Criptografador
+aleatory/chainofresponsibility/example1/RecuperadorCacheMemoria.java
+ aleatory.chainofresponsibility.example1.RecuperadorCacheMemoria
+aleatory/chainofresponsibility/example2/PosProcessador.java
+ aleatory.chainofresponsibility.example2.PosProcessador
+aleatory/templatemethod/GeradorArquivo.java
+ aleatory.templatemethod.GeradorArquivo
+aleatory/adapter/SMSSender.java
+ aleatory.adapter.SMSSender
+aleatory/observer/example1/CarteiraAcoes.java
+ aleatory.observer.example1.CarteiraAcoes
+aleatory/composite/example1/GeradorPropriedadesCriptografado.java
+ aleatory.composite.example1.GeradorPropriedadesCriptografado
+aleatory/adapter/EnviadorSMS.java
+ aleatory.adapter.EnviadorSMS
+aleatory/observer/example1/AcoesLogger.java
+ aleatory.observer.example1.AcoesLogger
+aleatory/chainofresponsibility/example1/RecuperadorArquivo.java
+ aleatory.chainofresponsibility.example1.RecuperadorArquivo
+aleatory/servicelocator/Mulher.java
+ aleatory.servicelocator.Mulher
+aleatory/templatemethod/GeradorXMLCompactado.java
+ aleatory.templatemethod.GeradorXMLCompactado
+aleatory/visitor/VisitanteHTML.java
+ aleatory.visitor.VisitanteHTML
+aleatory/doubledispatch/ProdutoFisico.java
+ aleatory.doubledispatch.ProdutoFisico
+aleatory/visitor/Cliente.java
+ aleatory.visitor.Cliente
+aleatory/visitor/Relatorio.java
+ aleatory.visitor.Relatorio
+aleatory/bridge/Demo.java
+ aleatory.bridge.Demo
+aleatory/doubledispatch/CarrinhoCompra.java
+ aleatory.doubledispatch.CarrinhoCompra
+aleatory/doubledispatch/Produto.java
+ aleatory.doubledispatch.Produto
+aleatory/visitor/ComprasCliente.java
+ aleatory.visitor.ComprasCliente
+aleatory/visitor/FormatoVisitante.java
+ aleatory.visitor.FormatoVisitante
+aleatory/servicelocator/Demo.java
+ aleatory.servicelocator.Demo
+aleatory/doubledispatch/ProdutoDigital.java
+ aleatory.doubledispatch.ProdutoDigital
+aleatory/visitor/Item.java
+ aleatory.visitor.Item
+aleatory/visitor/Demo.java
+ aleatory.visitor.Demo
